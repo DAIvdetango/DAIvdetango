@@ -4,7 +4,7 @@
 
 - 🤓 I’m currently looking for a data analysis internship or entry-level position to dive into real-world datasets and grow my skills!
 
-## Language and tools
+## Tools and Language  
 - Data analysing 🔍
 - Data visualisation 📊
 - Power BI and Tableau
