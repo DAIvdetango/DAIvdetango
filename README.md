@@ -6,8 +6,8 @@
 
 ## Tools & Technologies  
 - Data analysing 🔍
-- Data visualisation 📊
-- Power BI and Tableau
+- Data visualisation 📈
+- Power BI and Tableau 📊
 - MySQL and MongoDB 🗄️🧩
 
 ## Language
