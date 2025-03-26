@@ -9,6 +9,9 @@
 - Data visualisation 📈
 - Power BI and Tableau 📊
 - MySQL and MongoDB 🗄️🧩
+- Product Analysis
+- Python (Programming Language)
+- Machine Learning
 
 ## Language
 - Ukrainian, Russian, - Native
