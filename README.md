@@ -24,6 +24,7 @@
 
 ## Follow me
 
+[Linkedin](https://www.linkedin.com/in/ivanna-tykhomyrova-94012084)
 [Instagram](https://www.instagram.com/ivdetango)
 [Facebook](https://www.facebook.com/ivannadetango)
 [Youtube](https://www.youtube.com/@IvDeTango)
