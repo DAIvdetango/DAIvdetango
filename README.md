@@ -1,4 +1,4 @@
-![banner](https://github.com/DAIvdetango/DAIvdetango/blob/main/Tittle_github.png)
+![banner](https://github.com/DAIvdetango/DAIvdetango/blob/main/assets/Tittle.png)
 
 ## About me
 
