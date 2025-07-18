@@ -2,7 +2,7 @@
 
 ## About me
 
-- 🤓 I’m currently looking for a data analysis internship or entry-level position to dive into real-world datasets and grow my skills!
+🤓 Currently developing my first real-world project: designing and implementing end-to-end BI analytics pipeline for a startup
 
 ## Tools & Technologies  
 - Data analysing 🔍
